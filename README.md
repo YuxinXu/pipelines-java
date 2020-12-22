@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yuxinxu/pipelineDemo/_apis/build/status/YuxinXu.pipelines-java?branchName=master)](https://dev.azure.com/yuxinxu/pipelineDemo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
